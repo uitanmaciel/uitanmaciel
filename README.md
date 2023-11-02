@@ -14,14 +14,3 @@ Atualmente, procuro me aprofundar em conteúdos referente a desenvolvimento de s
 
 ## Social Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/uitanmaciel/)
-
-## GitHub Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uitanmaciel&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
-
-
-## Top Langs
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=uitanmaciel&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-## Repositories
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=uitanmaciel&repo=KappaProject&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/uitanmaciel/KappaProject)  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=uitanmaciel&repo=nlw-uploader-ia&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/uitanmaciel/nlw-uploader-ia)
