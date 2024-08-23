@@ -4,7 +4,7 @@ I have a degree in Business Administration and for many years I worked in the fi
 Currently, I am looking to delve deeper into content related to software development and its entire ecosystem, as I intend to change careers and become a developer.
 
 ### (Portuguese)
-Olá! Este é Uitan Maciel, brasileiro, residente em Salvador/BA.
+Olá! Sou Uitan Maciel, brasileiro, residente em Salvador/BA.
 Sou formado em Administração de Empresas e por muitos anos trabalhei no mercado financeiro. Como sempre fui apaixonado por programação, comecei a estudar por conta própria em 2002, mas devido a outras atividades nunca trabalhei no segmento.
 Atualmente, procuro me aprofundar em conteúdos referente a desenvolvimento de software e todo seu ecossitema, pois pretendo mudar de carreira e me tornar um desenvolvedor.
 
