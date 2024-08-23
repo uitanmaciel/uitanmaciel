@@ -1,5 +1,5 @@
 # Uitan Maciel
-Hello! This is Uitan Maciel, Brazilian, resident in Salvador/BA.
+Hello! I'm Uitan Maciel, Brazilian, resident in Salvador/BA.
 I have a degree in Business Administration and for many years I worked in the financial market. As I have always been passionate about programming, I started studying on my own in 2002, but due to other activities, I never worked in the segment.
 Currently, I am looking to delve deeper into content related to software development and its entire ecosystem, as I intend to change careers and become a developer.
 
